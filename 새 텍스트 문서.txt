@@ -18,26 +18,6 @@ int main(void) {
 	out2 << nComScore;
 	string comNum = "Comuter Score : " + out2.str();
 	cout << comNum.c_str();
-	/*
-	抄荐积己
-	int num;
-	int com;
-	int com1 = 0, com2 = 0, com3 = 0;
-
 	
-
-	srand((int)time(NULL));
-	
-	num = rand() % 10;
-	printf("积己等 箭磊 : %d \n", num);
-
-	while (com1 == com2 || com1 == com3 || com2 == com3) {
-		com = rand() % 1000;
-		com1 = com / 100;
-		com2 = com / 10 % 10;
-		com3 = com % 10;
-	}
-	printf("积己等 箭磊 : %d %d %d \n", com1, com2, com3);
-	*/
 	return 0;
 }
