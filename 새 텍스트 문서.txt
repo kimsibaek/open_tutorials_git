@@ -5,7 +5,7 @@
 
 using namespace std;
 
-
+   //test
 int main(void) {
 	int nUserScore = 100;
 	int nComScore = 200;
