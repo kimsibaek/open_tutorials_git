@@ -20,6 +20,7 @@ int main(void){
 	MyFunc();
 	//tlfgja2
 	//충돌
+	//충돌해결
 	return 0;
 }
 
