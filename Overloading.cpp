@@ -25,6 +25,7 @@ int main(void){
 	//push
 	//pull
 	//testtest
+	//push.1
 	return 0;
 }
 
