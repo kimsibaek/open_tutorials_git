@@ -20,6 +20,7 @@ int main(void){
 	MyFunc();
 	//tlfgja2
 	//충돌
+	//원격저장소
 	return 0;
 }
 
