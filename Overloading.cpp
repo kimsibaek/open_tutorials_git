@@ -17,6 +17,8 @@ int main(void){
 	MyFunc('A');
 	MyFunc(12, 13);
 	//test
+	MyFunc();
+	//tlfgja2
 	return 0;
 }
 
