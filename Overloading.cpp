@@ -22,6 +22,8 @@ int main(void){
 	//충돌
 	//충돌해결
 	//원격저장소
+
+	//testtest
 	return 0;
 }
 
