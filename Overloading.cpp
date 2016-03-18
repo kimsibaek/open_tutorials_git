@@ -23,6 +23,7 @@ int main(void){
 	//충돌해결
 	//원격저장소
 	//push
+	//pull
 	//testtest
 	return 0;
 }
