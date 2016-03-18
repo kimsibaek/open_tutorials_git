@@ -21,6 +21,7 @@ int main(void){
 	//tlfgja2
 	//충돌
 	//충돌해결
+	//원격저장소
 	return 0;
 }
 
